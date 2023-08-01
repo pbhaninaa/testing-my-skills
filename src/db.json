@@ -1,0 +1,108 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "database": [
+    {
+      "name": "Lufuno",
+      "surname": "Mulaudzi",
+      "experience": "Java",
+      "email": "lufuno@gmail.com",
+      "phone": 734003412,
+      "gender": "female",
+      "id": 1
+    },
+    {
+      "name": "Lufunoa",
+      "surname": "Mulaudziads",
+      "experience": "javafas",
+      "email": "lufunofa@gmail.com",
+      "phone": 734003445,
+      "gender": "female",
+      "id": 2
+    },
+    {
+      "name": "ryeryereeeeeeeeeedsgdfsg",
+      "surname": "dfshfh",
+      "experience": "dfhdfh",
+      "email": "dfahsdf@jfd",
+      "phone": 78214124,
+      "gender": "female",
+      "id": 3
+    },
+    {
+      "name": "",
+      "surname": "",
+      "experience": "",
+      "email": "",
+      "phone": "",
+      "gender": "",
+      "id": 4
+    },
+    {
+      "name": "rherh",
+      "surname": "esthye",
+      "experience": "dshshe",
+      "email": "eryer@trgh",
+      "phone": 785474587,
+      "gender": "female",
+      "id": 5
+    },
+    {
+      "name": "ecwd",
+      "surname": "dwcdw",
+      "experience": "dwcwdc",
+      "email": "dwcwd@fwe",
+      "phone": 7821412153,
+      "gender": "female",
+      "date": "2023-07-17",
+      "id": 6
+    },
+    {
+      "name": "ecwd",
+      "surname": "dwcdw",
+      "experience": "dwcwdc",
+      "email": "dwcwd@fwe",
+      "phone": 7821412153,
+      "gender": "female",
+      "date": "2023-07-17",
+      "id": 7
+    },
+    {
+      "name": "fwg",
+      "surname": "sefds",
+      "experience": "svd",
+      "email": "fsavfsd@fds",
+      "phone": 782141215,
+      "gender": "female",
+      "date": "2023-07-17",
+      "img": "C:\\fakepath\\IMG-1841.jpg",
+      "id": 8
+    },
+    {
+      "name": "vxm",
+      "surname": "xm",
+      "experience": "vxm",
+      "email": "xvmxv@shte",
+      "phone": 2349876543,
+      "gender": "male",
+      "date": "2023-07-04",
+      "img": "C://fakepath//IMG-1841.jpg",
+      "id": 9
+    }
+  ]
+}
